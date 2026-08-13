@@ -163,3 +163,6 @@ coffee_selected/
 ├── .env                       # 数据库密码（不入库）
 └── vite.config.ts             # 接口代理配置
 ```
+<img width="2558" height="1405" alt="image" src="https://github.com/user-attachments/assets/9236d6a9-9967-43f9-a07f-a43a25bbd6be" />
+
+
